@@ -1,6 +1,8 @@
-
-export default function Home() {
+import Home from "./components/Home/Home";
+export default function HomePage() {
   return (
-   <div className="text-5xl">Homepage</div>
+    <div>
+      <Home />
+    </div>
   );
 }
