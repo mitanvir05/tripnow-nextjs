@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌍 TripNow - Travel Booking Landing Page
 
-## Getting Started
+[Live Demo 🚀](https://tripnow-nextjs.vercel.app/)
 
-First, run the development server:
+TripNow is a modern, responsive travel booking landing page built with **Next.js 15**, **React 19**, and stylish animations using **AOS** and **Swiper**. It allows users to explore top destinations, recommended hotels, latest travel news, and quickly book their next journey with an elegant and user-friendly interface.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![TripNow Preview](./public/tripnow.png)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## ✨ Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- 🔎 **Search Interface** – Location, date, and guest input form for planning trips.
+- 🌆 **Popular Destinations** – Slider showcasing top-travelled cities and countries.
+- 🏨 **Recommended Hotels** – Carousel of featured hotels with pricing, ratings, and reviews.
+- 💡 **Why Choose Us Section** – Key highlights like Best Price Guarantee and 24/7 Support.
+- 🗣 **Customer Testimonial** – A simple customer review section with star ratings.
+- 📰 **Latest News Section** – Blog-style section with recent articles for travelers.
+- 📩 **Newsletter Subscription** – Email input to stay updated with offers and tips.
+- 📱 **Responsive Design** – Fully optimized for desktop, tablet, and mobile.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🚀 Tech Stack
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+| Tech             | Description                                 |
+|------------------|---------------------------------------------|
+| **Next.js 15**   | React framework for server-side rendering   |
+| **React 19**     | Core UI building library                    |
+| **AOS**          | Animate On Scroll for scroll animations     |
+| **Swiper**       | Powerful modern slider/carousel library     |
+| **React Icons**  | Icon library for modern web icons           |
+| **React Multi Carousel** | Responsive carousel component       |
+| **Tailwind CSS** (optional) | Utility-first styling (if used)  |
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
