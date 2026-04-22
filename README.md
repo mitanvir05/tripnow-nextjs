@@ -31,5 +31,5 @@ TripNow is a modern, responsive travel booking landing page built with **Next.js
 | **Swiper**       | Powerful modern slider/carousel library     |
 | **React Icons**  | Icon library for modern web icons           |
 | **React Multi Carousel** | Responsive carousel component       |
-| **Tailwind CSS** | Utility-first styling (if used)  |
+| **Tailwind CSS** | Utility-first styling   |
 
